@@ -3,9 +3,9 @@
 > "Streams of tokens" is a play on words of the phrase "streams of consciousness" to describe "The Process". The Process is what I call the series of events up to and specifically at the moment of a token being generated and experienced
 
 # Milestones
-- [ ] Study Ilya's recommended papers
-- [ ] Build Ben Eater's breadboard computer
-- [ ] Design a breadboard neuromorphic circuit
+- [ ] Study Ilya's [recommended papers](https://github.com/oznewman/ilya-sutskever-recommended-reading)
+- [ ] Build Ben Eater's [breadboard computer](https://eater.net/8bit/)
+- [ ] Design a [breadboard neuromorphic computer](https://www.gsnetwork.com/how-to-build-artificial-neurons/)
 
 # Research topics and questions
 - Generative literate programming an everything app
