@@ -3,7 +3,9 @@
 > "Streams of tokens" is a play on words of the phrase "streams of consciousness" to describe "The Process". The Process is what I call the series of events up to and specifically at the moment of a token being generated and experienced
 
 # Milestones
-- [x] Publish [swarm agent framework](https://github.com/oznewman/hey)
+- [x] Prototype [swarm agent framework](https://github.com/oznewman/hey)
+- [x] Prototype [generative linux emulator](https://github.com/oznewman/sim.html)
+- [ ] Publish generative simulator
 - [ ] Study Ilya's [recommended papers](https://github.com/oznewman/ilya-sutskever-recommended-reading)
 - [ ] Build Ben Eater's [breadboard computer](https://eater.net/8bit/)
 - [ ] Design a [breadboard neuromorphic computer](https://www.gsnetwork.com/how-to-build-artificial-neurons/)
